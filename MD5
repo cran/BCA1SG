@@ -1,0 +1,16 @@
+780023a9b6fe776de23ab1d6054685a8 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+0f9f49dda62eb97b3d54f5d1e99af77f *R/BCA1SG_NHPP.R
+21f061cdc9aab4f43b3f5c0d9485c809 *R/BCA1SG_degradation.R
+1f94c152105bb5abd8a2ea4686a4ef8c *R/BCA1SG_interval_censor.R
+02dc003b2b5eb48de5582e025e8e1abf *R/data.R
+b0ed4ca9f29e58f5bd6312ff510e586f *README.md
+1de2c17545575d1152800cc67f5b2273 *data/adapt_duser.rda
+ed99f7b00f3a48f399110793217709c1 *data/adapt_skiTum.rda
+832799767df04e1e0c1de43750ae302e *data/liner.rda
+76c6bfae5bcf713b813c45d0291474a1 *man/BCA1SG_NHPP.Rd
+79da8e33618daf491185ddd96920e45b *man/BCA1SG_degradation.Rd
+7bcef20be008d10b9c1d5f7745659402 *man/BCA1SG_interval_censor.Rd
+eac3e7d611930f93d10fae9d0bcd9d35 *man/adapt_duser.Rd
+ca034b86ab16c750cd4eae863549275d *man/adapt_skiTum.Rd
+2393d27a83fc5aa8dfc79ce9bfffaa91 *man/liner.Rd
